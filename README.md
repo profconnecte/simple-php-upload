@@ -23,7 +23,7 @@ There are few options that you can change by editing the file itself:
 
 - Directory to store uploaded files
 
-	`uploaddir` => `'.'`
+	`uploaddir` => `'../fichiers'`
 
 - Display list uploaded files
 
